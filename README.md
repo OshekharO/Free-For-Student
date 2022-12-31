@@ -21,6 +21,13 @@
   * [Dlubal](https://www.dlubal.com/en-US/education/students-and-schools/free-structural-analysis-software-for-students)
   * [NSC](https://cloud.safe.nsc.org/student-membership)
 
+### Cheat Sheets
+  * [Alta3](https://alta3.com/posters/)
+  * [Devhints](https://devhints.io)
+  * [Gitsheet](https://gitsheet.wtf)
+  * [Overapi](https://overapi.com)
+  * [GmailCity](https://gmailcity.com)
+
 ### Temp Mail
   * [1secmail](https://www.1secmail.com)
   * [Emailnator](https://www.emailnator.com)
@@ -34,6 +41,10 @@
   * [FreeHostia](https://www.freehostia.com)
   * [000webhost](https://www.000webhost.com)
   * [AwardSpace](https://www.awardspace.com)
+  * [Netlify](https://www.netlify.com)
+  * [Vercel](https://vercel.com)
+  * [Cloudflare](https://pages.cloudflare.com)
+  * [Github](https://pages.github.com)
 
 ### Free Domain
   * [is-a-good.dev](https://is-a-good.dev)
