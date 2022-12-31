@@ -34,10 +34,12 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 ### Cheat Sheets
 ---
   * [Alta3](https://alta3.com/posters/)
-  * [Devhints](https://devhints.io)
-  * [Gitsheet](https://gitsheet.wtf)
+  * [DevHints](https://devhints.io)
+  * [GitSheet](https://gitsheet.wtf)
   * [Overapi](https://overapi.com)
   * [GmailCity](https://gmailcity.com)
+  * [CheatoGraphy](https://cheatography.com)
+  * [CodeHouse](https://codehouse.vercel.app/app)
 
 ### Temp Mail
 ---
