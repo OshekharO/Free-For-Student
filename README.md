@@ -1,6 +1,10 @@
-# Free-For-Student
+<div align="center">
 
-### Free Subscription 
+# *Free-For-Student*
+</div>
+
+### Free Subscription
+---
   * [Youneedabudget](https://www.youneedabudget.com/college/)
   * [AutoDesk](https://www.autodesk.com/education/edu-software/overview)
   * [GitHub Education](https://education.github.com)
@@ -22,6 +26,7 @@
   * [NSC](https://cloud.safe.nsc.org/student-membership)
 
 ### Cheat Sheets
+---
   * [Alta3](https://alta3.com/posters/)
   * [Devhints](https://devhints.io)
   * [Gitsheet](https://gitsheet.wtf)
@@ -29,6 +34,7 @@
   * [GmailCity](https://gmailcity.com)
 
 ### Temp Mail
+---
   * [1secmail](https://www.1secmail.com)
   * [Emailnator](https://www.emailnator.com)
   * [SmailPro](https://smailpro.com/advanced)
@@ -36,6 +42,7 @@
   * [GmailCity](https://gmailcity.com)
 
 ### Web Hosting
+---
   * [InfinityFree](https://www.infinityfree.net)
   * [HelioHost](https://heliohost.org)
   * [FreeHostia](https://www.freehostia.com)
@@ -47,6 +54,7 @@
   * [Github](https://pages.github.com)
 
 ### Free Domain
+---
   * [is-a-good.dev](https://is-a-good.dev)
   * [open-domains](https://open-domains.net)
   * [thedev.id](https://thedev.id)
@@ -62,18 +70,21 @@
   * [EU.org](https://nic.eu.org)
 
 ### Random Address
+---
   * [FakePersonGenerator](https://www.fakepersongenerator.com)
   * [FakeNameGenerator](https://www.fakenamegenerator.com)
   * [RandomProfile](https://randomprofile.com)
   * [Fakexy](https://www.fakexy.com)
 
 ### Modded Application
+---
   * [RockMods](https://www.rockmods.net)
   * [a2zapk](https://https://a2zapk.com)
   * [Release-Apk](https://forum.release-apk.com)
   * [4PDA](https://4pda.to)
 
 ### Alternatives
+---
   * [freeforstudents](https://freeforstudents.org)
   * [savethestudent](https://www.savethestudent.org)
   * [free-for-dev](https://free-for.dev)
