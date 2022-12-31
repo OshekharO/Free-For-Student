@@ -1,7 +1,13 @@
 <div align="center">
 
 # *Free-For-Student*
+
 </div>
+
+:sunglasses: List of helpful resources added by the community for the community!
+
+### Contribution
+To add a resource or contribute, please click [here](https://github.com/OshekharO/Free-For-Student/issues).
 
 ### Free Subscription
 ---
