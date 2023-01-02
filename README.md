@@ -51,15 +51,20 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 
 ### Web Hosting
 ---
+  * [FreeWebHostingArea](https://www.freewebhostingarea.com)
   * [InfinityFree](https://www.infinityfree.net)
+  * [DontPayHost](https://dontpayhost.com)
   * [HelioHost](https://heliohost.org)
   * [FreeHostia](https://www.freehostia.com)
   * [000webhost](https://www.000webhost.com)
   * [AwardSpace](https://www.awardspace.com)
+  * [NeoCities](https://neocities.org)
   * [Netlify](https://www.netlify.com)
   * [Vercel](https://vercel.com)
   * [Cloudflare](https://pages.cloudflare.com)
   * [Github](https://pages.github.com)
+  * [Render](https://render.com)
+  * [Fleek](https://fleek.co)
 
 ### Free Domain
 ---
