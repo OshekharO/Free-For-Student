@@ -94,6 +94,7 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [RockMods](https://www.rockmods.net)
   * [a2zapk](https://https://a2zapk.com)
   * [Release-Apk](https://forum.release-apk.com)
+  * [Mobilism](https://forum.mobilism.org)
   * [4PDA](https://4pda.to)
 
 ### Alternatives
