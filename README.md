@@ -12,6 +12,7 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 ### Free Subscription
 ---
   * [Youneedabudget](https://www.youneedabudget.com/college/)
+  * [RemoteUtilities](https://www.remoteutilities.com/support/free.php)
   * [AutoDesk](https://www.autodesk.com/education/edu-software/overview)
   * [GitHub Education](https://education.github.com)
   * [World English Institute](https://www.worldenglishinstitute.org)
