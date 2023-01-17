@@ -103,6 +103,7 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [savethestudent](https://www.savethestudent.org)
   * [free-for-dev](https://free-for.dev)
   * [freestuff](https://freestuff.dev)
+  * [freebiesbug](https://freebiesbug.com)
   * [husker](https://husker.vercel.app)
 
 ---
