@@ -69,6 +69,7 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 
 ### Free Domain
 ---
+  * [freesubdomains.org](https://freesubdomains.org)
   * [is-a-good.dev](https://is-a-good.dev)
   * [open-domains](https://open-domains.net)
   * [thedev.id](https://thedev.id)
