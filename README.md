@@ -77,7 +77,6 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [js.org](https://js.org)
   * [is-an.app](https://is-an.app)
   * [is-a.dev](https://www.is-a.dev)
-  * [thedev.id](https://thedev.id)
   * [cluster.ws](https://cluster.ws)
   * [js.cool](https://js.cool)
   * [dee.al](https://domain.dee.al)
