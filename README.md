@@ -25,7 +25,6 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [Youneedabudget](https://www.youneedabudget.com/college/) - Free for 12 months
   * [RemoteUtilities](https://www.remoteutilities.com/support/free.php) - Free for students
   * [AutoDesk](https://www.autodesk.com/education/edu-software/overview) - Free educational access
-  * [GitHub Education](https://education.github.com) - Various developer tools
   * [World English Institute](https://www.worldenglishinstitute.org) - Free English courses
   * [Tableau](https://www.tableau.com/academic/students) - Free for one year
   * [Jetbrains](https://www.jetbrains.com/community/education/) - Free while you're a student
@@ -34,6 +33,7 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [NameCheap](https://nc.me) - Free .me domain and hosting for 1 year
   * [WebFlow](https://webflow.com/for/classroom) - Free for students and educators
   * [Sketch](https://www.sketch.com/education/) - Free for students and teachers
+  * [Unity Student Plan](https://unity.com/products/unity-student) - Free access to Unity Pro for students
   * [TechCrunch](https://techcrunch.com/subscribe/)
   * [Ieee Pes](https://www.ieee-pes.org/meetings-and-conferences/170-pes-communities/762-students-first-year-free)
   * [Dataiku](https://www.dataiku.com/company/academic-program/)
@@ -91,7 +91,6 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [cluster.ws](https://cluster.ws)
   * [js.cool](https://js.cool)
   * [dee.al](https://domain.dee.al)
-  * [Freenom](https://www.freenom.com) - Free top-level domains
   * [EU.org](https://nic.eu.org) - Free subdomain of EU.org
 
 ### Random Address Generators
@@ -104,12 +103,15 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 ### Online Learning Platforms
 ---
   * [Coursera](https://www.coursera.org) - Many courses free to audit
+  * [MIT OpenCourseWare](https://ocw.mit.edu/) - Free MIT course materials
+  * [Stanford Online](https://online.stanford.edu/free-courses) - Free online courses from Stanford
   * [edX](https://www.edx.org) - Free courses from top institutions
   * [Khan Academy](https://www.khanacademy.org) - Completely free courses
 
 ### Productivity Tools
 ---
   * [Notion](https://www.notion.so/students) - Free Pro plan for students
+  * [Grammarly](https://www.grammarly.com/edu) - Free for educational institutions
   * [Trello](https://trello.com/education) - Free for students and teachers
   * [Asana](https://asana.com/education) - Free for students and educators
 
@@ -126,7 +128,10 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 
 ### Programming Resources
 ---
+  * [GitHub Student Developer Pack](https://education.github.com/pack) - Free access to various developer tools
   * [freeCodeCamp](https://www.freecodecamp.org/) - Free coding courses
+  * [hackerrank](https://www.hackerrank.com/) - Coding challenges and competitions
+  * [codewars](https://www.codewars.com/) - Improve your skills by training with others
   * [Codecademy](https://www.codecademy.com/) - Some free coding courses
   * [LeetCode](https://leetcode.com/) - Coding practice problems
 
