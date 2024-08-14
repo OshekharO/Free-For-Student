@@ -74,17 +74,14 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 
 ### Free Domains
 ---
-  * [freesubdomains.org](https://freesubdomains.org)
-  * [is-a-good.dev](https://is-a-good.dev)
-  * [open-domains](https://open-domains.net)
-  * [thedev.id](https://thedev.id)
-  * [mod.land](https://mod.land)
+  * [is-a-good.dev](https://is-a-good.dev) - free subdomain for developers around the globe
+  * [open-domains](https://open-domains.net) - Free subdomains for personal sites
+  * [thedev.id](https://thedev.id) - An identity for developers on the web
+  * [mod.land](https://mod.land) - free domain for your deno project
   * [js.org](https://js.org) - Free for JavaScript projects
-  * [is-an.app](https://is-an.app)
+  * [is-an.app](https://is-an.app) - awesome domain name for your application
   * [is-a.dev](https://www.is-a.dev) - Free subdomain for developers
-  * [cluster.ws](https://cluster.ws)
-  * [js.cool](https://js.cool)
-  * [dee.al](https://domain.dee.al)
+  * [cluster.ws](https://cluster.ws) - For IT enthusiasts who need a temporary domain
   * [EU.org](https://nic.eu.org) - Free subdomain of EU.org
 
 ### Random Address Generators
