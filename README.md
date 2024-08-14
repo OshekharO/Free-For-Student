@@ -34,14 +34,11 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [WebFlow](https://webflow.com/for/classroom) - Free for students and educators
   * [Sketch](https://www.sketch.com/education/) - Free for students and teachers
   * [Unity Student Plan](https://unity.com/products/unity-student) - Free access to Unity Pro for students
-  * [TechCrunch](https://techcrunch.com/subscribe/)
-  * [Ieee Pes](https://www.ieee-pes.org/meetings-and-conferences/170-pes-communities/762-students-first-year-free)
-  * [Dataiku](https://www.dataiku.com/company/academic-program/)
-  * [Enscape](https://enscape3d.com/educational-license/)
-  * [Ironcad](https://www.ironcad.com/student/)
-  * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html)
-  * [Dlubal](https://www.dlubal.com/en-US/education/students-and-schools/free-structural-analysis-software-for-students)
-  * [NSC](https://cloud.safe.nsc.org/student-membership)
+  * [Dataiku](https://www.dataiku.com/company/academic-program/) - free one-year individual licenses
+  * [Enscape](https://enscape3d.com/educational-license/) - Free for one year
+  * [Ironcad](https://www.ironcad.com/student/) - Free Student License
+  * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html) - Free for the first year for students (usa)
+  * [NSC](https://cloud.safe.nsc.org/student-membership) - Free Student Membership
 
 ### Cheat Sheets
 ---
@@ -65,18 +62,15 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 ---
   * [FreeWebHostingArea](https://www.freewebhostingarea.com) - 1500 MB space, No ads
   * [InfinityFree](https://www.infinityfree.net) - Unlimited bandwidth and disk space
-  * [DontPayHost](https://dontpayhost.com)
-  * [HelioHost](https://heliohost.org)
-  * [FreeHostia](https://www.freehostia.com)
-  * [000webhost](https://www.000webhost.com)
-  * [AwardSpace](https://www.awardspace.com)
-  * [NeoCities](https://neocities.org)
+  * [HelioHost](https://heliohost.org) - Community powered free web hosting
+  * [FreeHostia](https://www.freehostia.com) - Offers free hosting services
+  * [000webhost](https://www.000webhost.com) - Free Web Hosting with PHP & MySQL
+  * [AwardSpace](https://www.awardspace.com) - free web hosting provider with NO ADS
   * [Netlify](https://www.netlify.com) - 100 GB bandwidth, CI/CD
   * [Vercel](https://vercel.com) - Serverless deployment, Free SSL
   * [Cloudflare Pages](https://pages.cloudflare.com)
-  * [Github Pages](https://pages.github.com) - 1 GB storage, 100 GB bandwidth/month
+  * [Github Pages](https://pages.github.com) - Free Static Site Hosting
   * [Render](https://render.com)
-  * [Fleek](https://fleek.co)
 
 ### Free Domains
 ---
