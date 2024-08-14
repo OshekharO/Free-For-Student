@@ -1,102 +1,134 @@
-<div align="center">
-
-# *Free-For-Student*
-
-</div>
+# Free-For-Student
 
 :sunglasses: List of helpful resources added by the community for the community!
+
+## Table of Contents
+- [Contribution](#contribution)
+- [Free Subscriptions](#free-subscriptions)
+- [Cheat Sheets](#cheat-sheets)
+- [Temp Mail](#temp-mail)
+- [Web Hosting](#web-hosting)
+- [Free Domains](#free-domains)
+- [Random Address Generators](#random-address-generators)
+- [Online Learning Platforms](#online-learning-platforms)
+- [Productivity Tools](#productivity-tools)
+- [Design Tools](#design-tools)
+- [Cloud Storage](#cloud-storage)
+- [Programming Resources](#programming-resources)
+- [Alternatives](#alternatives)
 
 ### Contribution
 To add a resource or contribute, please click [here](https://github.com/OshekharO/Free-For-Student/issues).
 
-### Free Subscription
+### Free Subscriptions
 ---
-  * [Youneedabudget](https://www.youneedabudget.com/college/)
-  * [RemoteUtilities](https://www.remoteutilities.com/support/free.php)
-  * [AutoDesk](https://www.autodesk.com/education/edu-software/overview)
-  * [GitHub Education](https://education.github.com)
-  * [World English Institute](https://www.worldenglishinstitute.org)
-  * [Tableau](https://www.tableau.com/academic/students)
-  * [Jetbrains](https://www.jetbrains.com/community/education/)
-  * [Axure](https://www.axure.com/edu)
-  * [Dashlane](https://www.dashlane.com/students)
-  * [NameCheap](https://nc.me)
+  * [Youneedabudget](https://www.youneedabudget.com/college/) - Free for 12 months
+  * [RemoteUtilities](https://www.remoteutilities.com/support/free.php) - Free for students
+  * [AutoDesk](https://www.autodesk.com/education/edu-software/overview) - Free educational access
+  * [GitHub Education](https://education.github.com) - Various developer tools
+  * [World English Institute](https://www.worldenglishinstitute.org) - Free English courses
+  * [Tableau](https://www.tableau.com/academic/students) - Free for one year
+  * [Jetbrains](https://www.jetbrains.com/community/education/) - Free while you're a student
+  * [Axure](https://www.axure.com/edu) - Free educational license
+  * [Dashlane](https://www.dashlane.com/students) - 6 months free
+  * [NameCheap](https://nc.me) - Free .me domain and hosting for 1 year
+  * [WebFlow](https://webflow.com/for/classroom) - Free for students and educators
+  * [Sketch](https://www.sketch.com/education/) - Free for students and teachers
   * [TechCrunch](https://techcrunch.com/subscribe/)
   * [Ieee Pes](https://www.ieee-pes.org/meetings-and-conferences/170-pes-communities/762-students-first-year-free)
-  * [WebFlow](https://webflow.com/for/classroom)
   * [Dataiku](https://www.dataiku.com/company/academic-program/)
   * [Enscape](https://enscape3d.com/educational-license/)
   * [Ironcad](https://www.ironcad.com/student/)
-  * [Sketch](https://www.sketch.com/education/)
   * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html)
   * [Dlubal](https://www.dlubal.com/en-US/education/students-and-schools/free-structural-analysis-software-for-students)
   * [NSC](https://cloud.safe.nsc.org/student-membership)
 
 ### Cheat Sheets
 ---
-  * [Alta3](https://alta3.com/posters/)
-  * [DevHints](https://devhints.io)
-  * [GitSheet](https://gitsheet.wtf)
-  * [Overapi](https://overapi.com)
+  * [Alta3](https://alta3.com/posters/) - Various tech posters
+  * [DevHints](https://devhints.io) - Collection of cheat sheets
+  * [GitSheet](https://gitsheet.wtf) - Git commands cheat sheet
+  * [Overapi](https://overapi.com) - Collecting all cheat sheets
   * [GmailCity](https://gmailcity.com)
-  * [CheatoGraphy](https://cheatography.com)
+  * [CheatoGraphy](https://cheatography.com) - Over 5,000 free cheat sheets
   * [CodeHouse](https://codehouse.vercel.app/app)
 
 ### Temp Mail
 ---
-  * [1secmail](https://www.1secmail.com)
-  * [Emailnator](https://www.emailnator.com)
-  * [SmailPro](https://smailpro.com/advanced)
-  * [Generator](https://generator.email)
+  * [1secmail](https://www.1secmail.com) - Disposable temporary email
+  * [Emailnator](https://www.emailnator.com) - Temporary email service
+  * [SmailPro](https://smailpro.com/advanced) - Temporary email with custom domains
+  * [Generator](https://generator.email) - Email address generator
   * [GmailCity](https://gmailcity.com)
 
 ### Web Hosting
 ---
-  * [FreeWebHostingArea](https://www.freewebhostingarea.com)
-  * [InfinityFree](https://www.infinityfree.net)
+  * [FreeWebHostingArea](https://www.freewebhostingarea.com) - 1500 MB space, No ads
+  * [InfinityFree](https://www.infinityfree.net) - Unlimited bandwidth and disk space
   * [DontPayHost](https://dontpayhost.com)
   * [HelioHost](https://heliohost.org)
   * [FreeHostia](https://www.freehostia.com)
   * [000webhost](https://www.000webhost.com)
   * [AwardSpace](https://www.awardspace.com)
   * [NeoCities](https://neocities.org)
-  * [Netlify](https://www.netlify.com)
-  * [Vercel](https://vercel.com)
-  * [Cloudflare](https://pages.cloudflare.com)
-  * [Github](https://pages.github.com)
+  * [Netlify](https://www.netlify.com) - 100 GB bandwidth, CI/CD
+  * [Vercel](https://vercel.com) - Serverless deployment, Free SSL
+  * [Cloudflare Pages](https://pages.cloudflare.com)
+  * [Github Pages](https://pages.github.com) - 1 GB storage, 100 GB bandwidth/month
   * [Render](https://render.com)
   * [Fleek](https://fleek.co)
 
-### Free Domain
+### Free Domains
 ---
   * [freesubdomains.org](https://freesubdomains.org)
   * [is-a-good.dev](https://is-a-good.dev)
   * [open-domains](https://open-domains.net)
   * [thedev.id](https://thedev.id)
   * [mod.land](https://mod.land)
-  * [js.org](https://js.org)
+  * [js.org](https://js.org) - Free for JavaScript projects
   * [is-an.app](https://is-an.app)
-  * [is-a.dev](https://www.is-a.dev)
+  * [is-a.dev](https://www.is-a.dev) - Free subdomain for developers
   * [cluster.ws](https://cluster.ws)
   * [js.cool](https://js.cool)
   * [dee.al](https://domain.dee.al)
-  * [Freenom](https://www.freenom.com)
-  * [EU.org](https://nic.eu.org)
+  * [Freenom](https://www.freenom.com) - Free top-level domains
+  * [EU.org](https://nic.eu.org) - Free subdomain of EU.org
 
-### Random Address
+### Random Address Generators
 ---
-  * [FakePersonGenerator](https://www.fakepersongenerator.com)
-  * [FakeNameGenerator](https://www.fakenamegenerator.com)
-  * [RandomProfile](https://randomprofile.com)
+  * [FakePersonGenerator](https://www.fakepersongenerator.com) - Generate random personal info
+  * [FakeNameGenerator](https://www.fakenamegenerator.com) - Random identity generator
+  * [RandomProfile](https://randomprofile.com) - Random user profile generator
   * [Fakexy](https://www.fakexy.com)
 
-### Modded Application
+### Online Learning Platforms
 ---
-  * [RockMods](https://www.rockmods.net)
-  * [a2zapk](https://https://a2zapk.com)
-  * [Release-Apk](https://forum.release-apk.com)
-  * [Mobilism](https://forum.mobilism.org)
-  * [4PDA](https://4pda.to)
+  * [Coursera](https://www.coursera.org) - Many courses free to audit
+  * [edX](https://www.edx.org) - Free courses from top institutions
+  * [Khan Academy](https://www.khanacademy.org) - Completely free courses
+
+### Productivity Tools
+---
+  * [Notion](https://www.notion.so/students) - Free Pro plan for students
+  * [Trello](https://trello.com/education) - Free for students and teachers
+  * [Asana](https://asana.com/education) - Free for students and educators
+
+### Design Tools
+---
+  * [Canva](https://www.canva.com/education/students/) - Free Pro account for students
+  * [Figma](https://www.figma.com/education/) - Free for students and educators
+
+### Cloud Storage
+---
+  * [Google Drive](https://www.google.com/drive/) - 15 GB free storage
+  * [Dropbox](https://www.dropbox.com/basic) - 2 GB free storage
+  * [MEGA](https://mega.nz/) - 20 GB free storage
+
+### Programming Resources
+---
+  * [freeCodeCamp](https://www.freecodecamp.org/) - Free coding courses
+  * [Codecademy](https://www.codecademy.com/) - Some free coding courses
+  * [LeetCode](https://leetcode.com/) - Coding practice problems
 
 ### Alternatives
 ---
@@ -108,6 +140,5 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [husker](https://husker.vercel.app)
 
 ---
-<h4 align='center'>© 2023 ツ ѕнєкнєя</h4>
 
-<!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
+This list is regularly updated. If you find any broken links or outdated information, please contribute to keep it current.
