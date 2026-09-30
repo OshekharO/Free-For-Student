@@ -83,6 +83,7 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [is-a.dev](https://www.is-a.dev) - Free subdomain for developers
   * [cluster.ws](https://cluster.ws) - For IT enthusiasts who need a temporary domain
   * [EU.org](https://nic.eu.org) - Free subdomain of EU.org
+  * [Zero Dollar Domains](https://arynjennen1989-stack.github.io/) - Catalog of still-free domain and subdomain programs (eu.org, is-a.dev, DuckDNS, and others) plus a live RDAP hunter
 
 ### Random Address Generators
 ---
