@@ -39,6 +39,9 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [Ironcad](https://www.ironcad.com/student/) - Free Student License
   * [InterServer](https://www.interserver.net/webhosting/student-webhosting.html) - Free for the first year for students (usa)
   * [NSC](https://cloud.safe.nsc.org/student-membership) - Free Student Membership
+  * [Azure for Students](https://azure.microsoft.com/en-us/free/students/) - Free $100 credit + 12 months free services (No credit card required)
+  * [AWS Educate](https://aws.amazon.com/education/awseducate/) - Free cloud training, labs & AWS credits (No credit card required)
+  * [Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office) - Free Word, Excel, PowerPoint, Teams while student (No credit card required)
 
 ### Cheat Sheets
 ---
@@ -106,11 +109,14 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
   * [Grammarly](https://www.grammarly.com/edu) - Free for educational institutions
   * [Trello](https://trello.com/education) - Free for students and teachers
   * [Asana](https://asana.com/education) - Free for students and educators
+  * [Miro Education](https://miro.com/education/) - Free Education plan with unlimited boards (No credit card required)
+  * [Lucidchart Education](https://www.lucidchart.com/pages/use-case/education) - Free Educational account with unlimited diagrams (No credit card required)
 
 ### Design Tools
 ---
   * [Canva](https://www.canva.com/education/students/) - Free Pro account for students
   * [Figma](https://www.figma.com/education/) - Free for students and educators
+  * [Onshape Education](https://www.onshape.com/en/education/) - Free full-featured 3D CAD for students & educators (No credit card required)
 
 ### Cloud Storage
 ---
@@ -121,6 +127,7 @@ To add a resource or contribute, please click [here](https://github.com/Oshekhar
 ### Programming Resources
 ---
   * [GitHub Student Developer Pack](https://education.github.com/pack) - Free access to various developer tools
+  * [Deepnote Education](https://deepnote.com/education) - Free Team plan for data science students & teachers (No credit card required)
   * [freeCodeCamp](https://www.freecodecamp.org/) - Free coding courses
   * [hackerrank](https://www.hackerrank.com/) - Coding challenges and competitions
   * [codewars](https://www.codewars.com/) - Improve your skills by training with others
